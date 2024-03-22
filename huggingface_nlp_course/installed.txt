@@ -1,0 +1,12 @@
+!pip install transformers
+!pip install transformers[sentencepiece]
+
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+pip install transformers datasets
+pip install torch
+pip install datasets
+pip install datasets[audio]
+pip install datasets[vision]
+pip install transformers[torch]
+pip install ipywidgets
+pip install evaluate
